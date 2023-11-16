@@ -1,0 +1,19 @@
+{
+    "shoppinglists": [
+      {
+        "title": "Fruits",
+        "items": [
+          {
+            "text": "Apple",
+            "checked": true
+          }
+        ],
+        "id": 1
+      },
+      {
+        "title": "New Shopping List",
+        "items": [],
+        "id": 2
+      }
+    ]
+  }
